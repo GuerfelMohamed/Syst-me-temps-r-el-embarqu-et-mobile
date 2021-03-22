@@ -1,4 +1,4 @@
-# Syst-me-temps-r-el-embarqu-et-mobile
+# Systme temps réel, embarqué et mobile
 
 1. **CalculePi :**
    - Il existe 2 version pour le calcule de Pi : En série et en parallèle
